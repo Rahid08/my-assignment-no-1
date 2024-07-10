@@ -10,11 +10,35 @@
   align-items: center;
   justify-content: center;
   text-align: center;
+  .web{
+
+  }
 
 }
 .btn{background-color: black;
   color: #fdfdfd;
   padding: 10px;
   border-radius: 3px;
-
  }
+
+
+.banner{
+  
+  
+  height: 900px;
+  width: 100%;
+  display: flex;
+align-items: center;
+justify-content: center;
+text-align: start;}
+
+
+
+
+.section1{display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;}
+.web{text-align: center;}
+
+.banner content{ margin: 0px auto;}
