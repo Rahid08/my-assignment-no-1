@@ -23,9 +23,7 @@
 
 
 .banner{
-  
-  
-  height: 900px;
+ 
   width: 100%;
   display: flex;
 align-items: center;
@@ -33,12 +31,38 @@ justify-content: center;
 text-align: start;}
 
 
-
-
 .section1{display: flex;
 justify-content: center;
 align-items: center;
-gap: 10px;}
-.web{text-align: center;}
+gap: 40px;
+padding: 20px;}
+
+
+
+
+.web{text-align: center;
+}
+.web h1{ font-size: 50px ;}
 
 .banner content{ margin: 0px auto;}
+
+.full{border:5px solid silver;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 0px auto ;
+display: flex;
+flex-direction: column;}
+
+.imgclass{height: 217px ;
+width: 265px;}
+
+.contantclass{ width:500px;}
+
+
+.videosection{align-items: center;
+justify-content: center;
+text-align: center;
+margin-top: 80px;
+}
+
+.videosize{border-radius: 10px;}
