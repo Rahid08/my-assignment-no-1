@@ -62,7 +62,77 @@ width: 265px;}
 .videosection{align-items: center;
 justify-content: center;
 text-align: center;
-margin-top: 80px;
+margin-top: 70px;
 }
 
 .videosize{border-radius: 10px;}
+
+/* current seaction */
+.currentmother{
+  text-align: center;
+  
+}
+.current{ display: flex;
+  justify-content:center;
+}
+
+.r1{ background-color: rgb(189, 191, 194);
+height: 270px;
+width: 280px;
+margin: 20px;
+border-radius: 10px;
+
+}
+.r2{ background-color: rgb(231, 167, 212);
+
+background-color: rgb(224, 165, 98);
+height: 270px;
+width: 280px;
+margin: 20px;
+border-radius: 10px;
+}
+.r3{ background-color: rgb(212, 167, 201);
+  max-width: 280px;
+
+background-color: rgb(73, 92, 121);
+height: 270px;
+width: 280px;
+margin: 20px;
+border-radius: 10px;
+}
+
+/* submit  */
+.submits{
+ 
+  background-image: url(assets/handshake.jpg);
+
+   width: 900px ;
+   height: auto;
+   margin: 20px auto;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+
+  
+}
+.submitcontant{ align-items: center;
+text-align: center;
+color: #fdfdfd;}
+
+.submitbtn{display: flex;
+justify-content: center;
+
+}
+
+.btn1{
+  background-color: #fdfdfd;
+  width: 400px;
+height: 40px;
+margin-bottom: 20px;
+border-radius: 5px;
+}
+
+.btn2{width:80px;
+height: 45px;
+border-radius: 5px;
+}
